@@ -75,13 +75,21 @@ Seu objetivo inicial é analisar arquivos criando uma base de dados relacional p
 <li>- [x]  Query dos clientes cadastrados, qual ddd que aparece com maior insidencia nas fraudes de transacoes de saida<li>
   
  ![DDD_MAIOR_FRAUDES_SAIDA](img/DDD_MAIOR_FRAUDES_SAIDA.png)
+  
 <li>- [x]  Procedure demonstrativa dos meses com maior fraude de cada ano diferenciando por origem da fraude<li>
+  
  ![PROCEDURE_MESES_FRAUDES](img/PROCEDURE_MESES_FRAUDES.png)
+  
 <li>- [x]  Consultando a tabela criada pela procedure que mostra os meses com maior numero de fraudes de cada ano diferenciando por origem da fraudes<li>
+  
  ![CONSULTANDO_TABELA_PROCEDURE](img/CONSULTANDO_TABELA_PROCEDURE.png)
+  
 <li>- [x]  VIEW criação de view para porcentagem de fraudes<li>
+  
  ![VIEW_PORCENTAGEM_DE_FRAUDES](img/VIEW_PORCENTAGEM_DE_FRAUDES.png)
+  
 <li>- [x]  Consultando a view da porcentagem de fraudes<li>
+  
  ![CONSULTANDO _VIEW_PORCENTAGEM_FRAUDES](img/CONSULTANDO _VIEW_PORCENTAGEM_FRAUDES.png)
  
 
