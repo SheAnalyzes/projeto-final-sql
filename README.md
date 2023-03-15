@@ -90,7 +90,7 @@ Seu objetivo inicial é analisar arquivos criando uma base de dados relacional p
   
 <li>- [x]  Consultando a view da porcentagem de fraudes<li>
   
- ![CONSULTANDO_VIEW_PORCENTAGEM_FRAUDES](iimg/CONSULTANDO_VIEW_PORCENTAGEM_FRAUDES.png)
+ ![CONSULTANDO_VIEW_PORCENTAGEM_FRAUDES](img/CONSULTANDO_VIEW_PORCENTAGEM_FRAUDES.png)
 
   
   **=================**
