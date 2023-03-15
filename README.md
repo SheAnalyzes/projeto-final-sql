@@ -18,7 +18,7 @@
 ### **Desafio**
 
 Desenvolver uma aplicação em Python para carga de arquivos em um banco de dados SQL e gerar relatórios estatísticos visando a descoberta de fraudes em conta corrente.
-Link do desafio: https://docs.google.com/document/d/10fBZm7Sxm60FEIyNk4rqUE-pJLhXRxDi1grAATF7hVw/edit
+Link do desafio:          https://docs.google.com/document/d/10fBZm7Sxm60FEIyNk4rqUE-pJLhXRxDi1grAATF7hVw/edit
 
 **=================**
 
@@ -69,10 +69,10 @@ Seu objetivo inicial é analisar arquivos criando uma base de dados relacional p
 
 Ferramentas usadas nessa etapa do projeto:
 
-    <li>Git</li>
+<ul>    <li>Git</li>
     <li>Trello</li>
     <li>Banco de Dados - Azure Data Studio</li>
-  
+</ul>
   
 **=================**
 ## **Grupo**
