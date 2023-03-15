@@ -53,9 +53,13 @@ Seu objetivo inicial é analisar arquivos criando uma base de dados relacional p
  #### ** Esse repositório apresentará o que foi desenvolvido no RELATÓRIO DE SQL**
 
 <li>- [x]  Demonstração dos clientes fraudados na entrada, informando o total do valor fraudado e a quantidade de fraudes por clientes<li>
+  
   ![FRAUDES_ENTRADA](img/FRAUDES_ENTRADA.png)
+  
 <li>- [x]  Demonstração dos clientes fraudados na saida, informando o total do valor fraudado e a quantidade de fraudes por clientes<li>
+  
    ![FRAUDES_SAIDA](iimg/FRAUDES_SAIDA.png)
+  
 <li>- [x]  Agrupado por ano, demonstra qual mês houve maior insidencia de fraudes de entrada<li>
   ![FRAUDES_ENTRADA](img/MÊS_MAIOR__FRAUDES_ENTRADA.png)
 <li>- [x]  Agrupado por ano, demonstra qual mês houve maior insidencia de fraudes de saida<li>
