@@ -67,7 +67,7 @@ Seu objetivo inicial é analisar arquivos criando uma base de dados relacional p
   **=================**
 ## **🛠 Tecnologias**
 
-Ferramentas usadas nessa etapa do projeto:
+As seguintes ferramentas foram usadas nessa ETAPA do projeto:
 
 <ul>    <li>Git</li>
     <li>Trello</li>
@@ -77,4 +77,5 @@ Ferramentas usadas nessa etapa do projeto:
 **=================**
 ## **Grupo**
 
+ 
 
