@@ -58,15 +58,22 @@ Seu objetivo inicial é analisar arquivos criando uma base de dados relacional p
   
 <li>- [x]  Demonstração dos clientes fraudados na saida, informando o total do valor fraudado e a quantidade de fraudes por clientes<li>
   
-  ![FRAUDES_SAIDA](iimg/FRAUDES_SAIDA.png)
+  ![FRAUDES_SAIDA](img/FRAUDES_SAIDA.png)
   
 <li>- [x]  Agrupado por ano, demonstra qual mês houve maior insidencia de fraudes de entrada<li>
- ![FRAUDES_ENTRADA](img/MÊS_MAIOR__FRAUDES_ENTRADA.png)
+  
+ ![MÊS_MAIOR__FRAUDES_ENTRADA](img/MÊS_MAIOR__FRAUDES_ENTRADA.png)
+  
 <li>- [x]  Agrupado por ano, demonstra qual mês houve maior insidencia de fraudes de saida<li>
+  
  ![MÊS_MAIOR_FRAUDES_SAIDA](img/MÊS_MAIOR_FRAUDES_SAIDA.png)
+  
 <li>- [x]  Query dos clientes cadastrados, qual ddd que aparece com maior insidencia nas fraudes de transacoes de entrada<li>
+  
  ![DDD_MAIOR_INSIDENCIA_ENTRADA](img/DDD_MAIOR_INSIDENCIA_ENTRADA.png)
+  
 <li>- [x]  Query dos clientes cadastrados, qual ddd que aparece com maior insidencia nas fraudes de transacoes de saida<li>
+  
  ![DDD_MAIOR_FRAUDES_SAIDA](img/DDD_MAIOR_FRAUDES_SAIDA.png)
 <li>- [x]  Procedure demonstrativa dos meses com maior fraude de cada ano diferenciando por origem da fraude<li>
  ![PROCEDURE_MESES_FRAUDES](img/PROCEDURE_MESES_FRAUDES.png)
