@@ -64,6 +64,8 @@ Seu objetivo inicial é analisar arquivos criando uma base de dados relacional p
 <li>- [x]  VIEW criação de view para porcentagem de fraudes<li>
 <li>- [x]  Consultando a view da porcentagem de fraudes<li>
   
+  ![todos_registros_transacoes](https://github.com/SheAnalyzes/projeto-final-sql/blob/main/img/todos_registros_transacoes.png)
+  
   **=================**
 ## **🛠 Tecnologias**
 
