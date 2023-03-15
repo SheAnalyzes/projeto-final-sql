@@ -38,12 +38,10 @@ Seu objetivo inicial é analisar arquivos criando uma base de dados relacional p
 
 ## 🛠 Tecnologias
 
-Ferramentas usadas na construção do projeto:
+Ferramentas usadas nessa etapa do projeto:
 
-- [Juppiter notebook]
 - [Azure Data Studio]
-- [PowerBI]
-- [VS Code]
+
 
 ## Grupo
 
