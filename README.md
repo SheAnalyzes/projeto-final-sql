@@ -61,11 +61,12 @@ Seu objetivo inicial é analisar arquivos criando uma base de dados relacional p
 Ferramentas usadas nessa etapa do projeto:
 
 <ul>
-   
     <li>Git</li>
     <li>Trello</li>
     <li>Banco de Dados - Azure Data Studio</li>
 </ul>
+  
+  
 
 ## Grupo
 
