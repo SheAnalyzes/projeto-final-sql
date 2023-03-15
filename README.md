@@ -40,8 +40,8 @@ Seu objetivo inicial é analisar estes arquivos criando uma base de dados relaci
 
 Ferramentas usadas na construção do projeto:
 
-- ![juppiter notebook]
-- [azure data studio]
+- ![Juppiter notebook]
+- [Azure Data Studio]
 - [PowerBI]
 - [VS Code]
 
