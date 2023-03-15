@@ -4,7 +4,7 @@
 
 **=================**
 
-  - [Qual o desafio?](#qual-o-desafio)
+  - [Desafio?](#qual-o-desafio)
   - [Objetivos](#objetivos)
   - [Analisando o problema](#analisando-o-problema)
   - [Tabela de conteúdos](#tabela-de-conteúdos)
@@ -38,11 +38,24 @@ Seu objetivo inicial é analisar arquivos criando uma base de dados relacional p
 - [x]  Relatórios de análise em PowerBI 
 - [x]  Códigos versionados no github.com
 
+## **Relatórios SQL**
 
+<ul>
+  Esse repositório apresentará o que foi desenvolvido no RELATÓRIO DE SQL 
 
-
-
-
+<li>- [x]  Demonstração dos clientes fraudados na entrada, informando o total do valor fraudado e a quantidade de fraudes por clientes<li>
+<li>- [x]  Demonstração dos clientes fraudados na saida, informando o total do valor fraudado e a quantidade de fraudes por clientes<li>
+<li>- [x]  Agrupado por ano, demonstra qual mês houve maior insidencia de fraudes de entrada<li>
+<li>- [x]  Agrupado por ano, demonstra qual mês houve maior insidencia de fraudes de saida<li>
+<li>- [x]  Demonstrativo dos meses com maior fraude de cada ano diferenciando por origem da fraude<li>
+<li>- [x]  Query dos clientes cadastrados, qual ddd que aparece com maior insidencia nas fraudes de transacoes de entrada<li>
+<li>- [x]  Query dos clientes cadastrados, qual ddd que aparece com maior insidencia nas fraudes de transacoes de saida<li>
+<li>- [x]  Procedure demonstrativa dos meses com maior fraude de cada ano diferenciando por origem da fraude<li>
+<li>- [x]  Consultando a tabela criada pela procedure que mostra os meses com maior numero de fraudes de cada ano diferenciando por origem da fraudes<li>
+<li>- [x]  VIEW criação de view para porcentagem de fraudes<li>
+<li>- [x]  Consultando a view da porcentagem de fraudes<li>
+  
+  
 ## 🛠 Tecnologias 
 
 Ferramentas usadas nessa etapa do projeto:
