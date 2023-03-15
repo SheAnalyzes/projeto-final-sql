@@ -44,7 +44,7 @@ Seu objetivo inicial é analisar arquivos criando uma base de dados relacional p
   Esse repositório apresentará o que foi desenvolvido no RELATÓRIO DE SQL 
 
 <li>- [x]  Demonstração dos clientes fraudados na entrada, informando o total do valor fraudado e a quantidade de fraudes por clientes<li>
- ![FRAUDES_ENTRADA](https://user-images.githubusercontent.com/125930758/225417269-3241182a-c1d1-452a-8802-1affc14d3238.JPG)
+<img src=”https://github.com/SheAnalyzes/projeto-final-sql/blob/a7ca03316df2fc7bc1610468f759f0c264b1bbe4/FRAUDES_SAIDA.JPG>
 <li>- [x]  Demonstração dos clientes fraudados na saida, informando o total do valor fraudado e a quantidade de fraudes por clientes<li>
 <li>- [x]  Agrupado por ano, demonstra qual mês houve maior insidencia de fraudes de entrada<li>
 <li>- [x]  Agrupado por ano, demonstra qual mês houve maior insidencia de fraudes de saida<li>
