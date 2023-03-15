@@ -70,7 +70,7 @@ Seu objetivo inicial é analisar arquivos criando uma base de dados relacional p
   
 <li>- [x]  Query dos clientes cadastrados, qual ddd que aparece com maior insidencia nas fraudes de transacoes de entrada<li>
   
- ![DDD_MAIOR_INSIDENCIA_ENTRADA](img/DDD_MAIOR_INSIDENCIA_ENTRADA.png)
+ ![DDD_MAIOR_FRAUDES_SAIDA](img/DDD_MAIOR_INSIDENCIA_ENTRADA.png)
   
 <li>- [x]  Query dos clientes cadastrados, qual ddd que aparece com maior insidencia nas fraudes de transacoes de saida<li>
   
@@ -90,8 +90,7 @@ Seu objetivo inicial é analisar arquivos criando uma base de dados relacional p
   
 <li>- [x]  Consultando a view da porcentagem de fraudes<li>
   
- ![CONSULTANDO _VIEW_PORCENTAGEM_FRAUDES](img/CONSULTANDO _VIEW_PORCENTAGEM_FRAUDES.png)
- 
+ ![CONSULTANDO_VIEW_PORCENTAGEM_FRAUDES](iimg/CONSULTANDO_VIEW_PORCENTAGEM_FRAUDES.png)
 
   
   **=================**
