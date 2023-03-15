@@ -62,7 +62,6 @@ Seu objetivo inicial é analisar arquivos criando uma base de dados relacional p
 <li>- [x]  Procedure demonstrativa dos meses com maior fraude de cada ano diferenciando por origem da fraude<li>
 <li>- [x]  Consultando a tabela criada pela procedure que mostra os meses com maior numero de fraudes de cada ano diferenciando por origem da fraudes<li>
 <li>- [x]  VIEW criação de view para porcentagem de fraudes<li>
-  ![VIEW_PORCENTAGEM_DE_FRAUDES](https://github.com/SheAnalyzes/projeto-final-sql/blob/main/img/CONSULTANDO%20_VIEW_PORCENTAGEM_FRAUDES.png)
 <li>- [x]  Consultando a view da porcentagem de fraudes<li>
   
   **=================**
