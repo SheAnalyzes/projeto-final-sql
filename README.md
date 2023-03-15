@@ -53,6 +53,7 @@ Seu objetivo inicial é analisar arquivos criando uma base de dados relacional p
  #### ** Esse repositório apresentará o que foi desenvolvido no RELATÓRIO DE SQL**
 
 <li>- [x]  Demonstração dos clientes fraudados na entrada, informando o total do valor fraudado e a quantidade de fraudes por clientes<li>
+![fraudes_entrada](https://github.com/SheAnalyzes/projeto-final-sql/blob/main/img/FRAUDES_ENTRADA.png?raw=true)
 <li>- [x]  Demonstração dos clientes fraudados na saida, informando o total do valor fraudado e a quantidade de fraudes por clientes<li>
 <li>- [x]  Agrupado por ano, demonstra qual mês houve maior insidencia de fraudes de entrada<li>
 <li>- [x]  Agrupado por ano, demonstra qual mês houve maior insidencia de fraudes de saida<li>
@@ -63,6 +64,7 @@ Seu objetivo inicial é analisar arquivos criando uma base de dados relacional p
 <li>- [x]  Consultando a tabela criada pela procedure que mostra os meses com maior numero de fraudes de cada ano diferenciando por origem da fraudes<li>
 <li>- [x]  VIEW criação de view para porcentagem de fraudes<li>
 <li>- [x]  Consultando a view da porcentagem de fraudes<li>
+ ![fraudes_entrada](https://github.com/SheAnalyzes/projeto-final-sql/blob/main/img/CLIENTES_SEM_TRANSACOES.png)
   
   **=================**
 ## **🛠 Tecnologias**
