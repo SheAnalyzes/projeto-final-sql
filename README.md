@@ -34,9 +34,9 @@ Seu objetivo inicial é analisar arquivos criando uma base de dados relacional p
 
 A análise inicial do problema foi feita a partir da análise dos dados recebidos. A partir daí, foram pensadas em algumas etapas:
 
-* O Brainstorm inicial das etapas pode ser visualizado [aqui]([https://whimsical.com/projeto-final-5zim4iYZrkWQ2Dbpy2knML](https://whimsical.com/projeto-final-5zim4iYZrkWQ2Dbpy2knML)).
+* O Brainstorm inicial das etapas pode ser visualizado [aqui](https://whimsical.com/projeto-final-5zim4iYZrkWQ2Dbpy2knML](https://whimsical.com/projeto-final-5zim4iYZrkWQ2Dbpy2knML)
 
-* O kanban do projeto com a divisão das atividades pode ser visualizado [aqui]([https://trello.com/b/4JhJb0Iz/project-data-azure-desafio-final](https://trello.com/b/4JhJb0Iz/project-data-azure-desafio-final)).
+* O kanban do projeto com a divisão das atividades pode ser visualizado [aqui](https://trello.com/b/4JhJb0Iz/project-data-azure-desafio-final)
 
 
 **=================**
@@ -55,11 +55,10 @@ As seguintes ferramentas foram usadas nessa ETAPA do projeto:
 
 ## Features
 
-- [x]  Script de migração em Pandas (Para acessar o repositório do projeto em Pandas, acesse [aqui](https://github.com/SheAnalyzes/projeto-final-pandas/).
-- [x]  Script de migração em Spark (Para acessar o repositório do projeto em Spark, acesse [aqui](https://github.com/SheAnalyzes/projeto-final-spark).
-- [x]  Modelo de Entidades e Relacionamentos
+- [x]  Script de migração em Pandas - Para acessar o repositório do projeto em Pandas, acesse [aqui](https://github.com/SheAnalyzes/projeto-final-pandas/).
+- [x]  Script de migração em Spark - Para acessar o repositório do projeto em Spark, acesse [aqui](https://github.com/SheAnalyzes/projeto-final-spark).
 - [x]  Relatórios de análise em SQL
-- [x]  Relatórios de análise em PowerBI (Para acessar o repositório do relatório em PowerBI acesse [aqui](https://github.com/SheAnalyzes/projeto-final-powerbi).
+- [x]  Relatórios de análise em PowerBI - Para acessar o repositório do relatório em PowerBI acesse [aqui](https://github.com/SheAnalyzes/projeto-final-powerbi).
 - [x]  Códigos versionados no github.com
 
 **=================**
