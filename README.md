@@ -1,42 +1,28 @@
-# Accenture Data Engineer/Azure - DESAFIO FINAL
+# Accenture - Gama Academy - Mulheres em Tech - Data Engineer/Azure - Versão em Spark
 
-## Tabela de conteúdos
+Este é o repositório da versão do projeto em Spark.
 
-**=================**
+Para retornar ao repositório geral, clique [aqui](https://github.com/SheAnalyzes/readme-repository)!
 
-  - [Visão geral](#visão-geral)
-  - [Desafio?](#qual-o-desafio)
+## Índice
+
+  - [Apresentação do problema](#apresentação-do-problema)
   - [Objetivos](#objetivos)
   - [Analisando o problema](#analisando-o-problema)
-  - [Tabela de conteúdos](#tabela-de-conteúdos)
   - [Features](#features)
-  - [Relatório SQL](#features)
-  - [Relatórios do Power BI](#relatórios-do-power-bi)
-  - [🛠 Tecnologias](#-tecnologias)
+  - [Relatório SQL](#relatorio-sql)
+  - [🛠 Tecnologias utilizadas](#-tecnologias-utilizadas)
   - [Grupo](#grupo)
   
-   **=================**
-   
-   ## Visão geral
-   
+## Apresentação do problema
 
+Desenvolver uma aplicação em Python para carga de arquivos em um banco de dados SQL e gerar relatórios estatísticos visando a descoberta de fraudes em conta correntede cartão de crédito.
 
- #### **Esse repositório apresentará o que foi desenvolvido no RELATÓRIO DE SQL**
-
-Você poderá encontrar informações detalhadas sobre o desafio [aqui](https://docs.google.com/document/d/10fBZm7Sxm60FEIyNk4rqUE-pJLhXRxDi1grAATF7hVw/edit)!
-
-**=================**
-
-### **Desafio**
-
-Desenvolver uma aplicação em Python para carga de arquivos em um banco de dados SQL e gerar relatórios estatísticos visando a descoberta de fraudes em conta corrente.
-Link do desafio:          https://docs.google.com/document/d/10fBZm7Sxm60FEIyNk4rqUE-pJLhXRxDi1grAATF7hVw/edit
-
-**=================**
+Você pode encontrar o link do desafio [aqui](https://docs.google.com/document/d/10fBZm7Sxm60FEIyNk4rqUE-pJLhXRxDi1grAATF7hVw/edit)!
 
 ### **Objetivos**
 
-Seu objetivo inicial é analisar arquivos criando uma base de dados relacional para fazer a carga e depois analisá-la. O cartão fraudado, será aquele que tiver movimentações abaixo de 2 minutos de espaçamento entre as transações.
+Seu objetivo inicial é analisar arquivos criando uma base de dados relacional para fazer a carga e depois analisá-la. A conta corrente fraudada, será aquela que tiver movimentações abaixo de 2 minutos de espaçamento entre as transações.
 
 **=================**
 
@@ -143,7 +129,7 @@ A análise inicial do problema foi feita a partir da análise dos dados recebido
 
   
   **=================**
-## **🛠 Tecnologias**
+## **🛠 Tecnologias utilizadas**
 
 As seguintes ferramentas foram usadas nessa ETAPA do projeto:
 
@@ -158,7 +144,7 @@ As seguintes ferramentas foram usadas nessa ETAPA do projeto:
    
 ## **Grupo** - SheAnalyses
 
-![1678919788585](image/README/1678919788585.png)![1678922005355](img/README/1678922005355.png)
+![1678919788585](img/README/1678919788585.png)![1678922005355](img/README/1678922005355.png)
 
 | Ana Paula Santos de Queiroz<br /><br />Linkedin: [/ana-paula-santos-de-queiroz-086807166](https://www.linkedin.com/in/ana-paula-santos-de-queiroz-086807166/)<br />Github: [/Queirozaps](https://github.com/Queirozaps) | ![1678913762981](img/README/1678913762981.png) |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------: |
