@@ -1,6 +1,6 @@
-# Accenture - Gama Academy - Mulheres em Tech - Data Engineer/Azure - Versão em Spark
+# Accenture - Gama Academy - Mulheres em Tech - Data Engineer/Azure - SQL
 
-Este é o repositório da versão do projeto em Spark.
+Este é o repositório da versão do projeto em SQL.
 
 Para retornar ao repositório geral, clique [aqui](https://github.com/SheAnalyzes/readme-repository)!
 
