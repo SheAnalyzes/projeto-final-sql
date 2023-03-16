@@ -48,50 +48,16 @@ Seu objetivo inicial é analisar arquivos criando uma base de dados relacional p
 
 ## **Features**
 
-- [x]  Script de migração em Python
-- [x]  Script de migração em Spark
+- [x]  Script de migração em Pandas (Para acessar o repositório do projeto em Pandas, acesse [aqui](https://github.com/SheAnalyzes/projeto-final-pandas/).
+- [x]  Script de migração em Spark (Para acessar o repositório do projeto em Spark, acesse [aqui](https://github.com/SheAnalyzes/projeto-final-spark).
 - [x]  Modelo de Entidades e Relacionamentos
 - [x]  Relatórios de análise em SQL
-- [x]  Relatórios de análise em PowerBI 
+- [x]  Relatórios de análise em PowerBI (Para acessar o repositório do relatório em PowerBI acesse [aqui](https://github.com/SheAnalyzes/projeto-final-powerbi).
 - [x]  Códigos versionados no github.com
 
 **=================**
 
-<li>- [x]  Relação de todos os registros da tabela transacoes<li>
-
-  ![TODOS_REGISTROS](https://github.com/SheAnalyzes/projeto-final-sql/blob/main/img/MOSTRAR_TOOS_REGISTROS_TRANSACOES.png)
-
-<li>- [x]  Proporção de fraudes nas transações de entrada<li>
-
-  ![PROPORCAO_FRAUDES_ENTRADA](https://github.com/SheAnalyzes/projeto-final-sql/blob/main/img/PROPORCAO_TRANSACOES_IN.png)
-
-<li>- [x]  Proporção de fraudes nas transações de saída<li>
-
-  ![PROPORCAO_FRAUDES_SAIDA](https://github.com/SheAnalyzes/projeto-final-sql/blob/main/img/PROPORCAO_TRANSACOES_OUT.png)
-
-<li>- [x]  Proporção de fraudes nas transações totais<li>
-
-  ![PROPORCAO_FRAUDES_TOTAL](https://github.com/SheAnalyzes/projeto-final-sql/blob/main/img/PROPORCAO_TRANSACOES_TOTAL.png)
-
-<li>- [x]  Função para formatação de moeda<li>
-
-  ![FORMATAR_MOEDA](https://github.com/SheAnalyzes/projeto-final-sql/blob/main/img/FORMATAR_VALOR.png)
-
-<li>- [x]  Procedure para realizar a busca de um id de cliente na tabela de transações<li>
-
-  ![BUSCA_ID_CLIENTE](https://github.com/SheAnalyzes/projeto-final-sql/blob/main/img/VERIFICAR_CLIENTE_POR_ID.png)
-
-<li>- [x]  Verificação de clientes que realizaram transações, mas não tem cadastro<li>
-
-  ![CLIENTES_SEM_CADASTRO](https://github.com/SheAnalyzes/projeto-final-sql/blob/main/img/CLIENTE_SEM_CADASTRO.png)
-
-<li>- [x]  Verificação de clientes que realizaram transações com suspeita de fraude, mas não tem cadastro<li>
-
-  ![CLIENTES_COM_FRAUDE_SEM_CADASTRO](https://github.com/SheAnalyzes/projeto-final-sql/blob/main/img/CLIENTE_COM_FRAUDE_SEM_CADASTRO.png)
-
-<li>- [x]  Verificação de clientes que não realizaram transações<li>
-
-  ![CLIENTES_SEM_TRANSACOES](https://github.com/SheAnalyzes/projeto-final-sql/blob/main/img/CLIENTES_SEM_TRANSACOES.png)
+## **Relatórios SQL**
 
 <li>- [x]  Demonstração dos clientes fraudados na entrada, informando o total do valor fraudado e a quantidade de fraudes por clientes<li>
   
