@@ -127,7 +127,7 @@ As seguintes ferramentas foram usadas nessa ETAPA do projeto:
   
 <li>- [x]  Procedure demonstrativa dos meses com maior fraude de cada ano diferenciando por origem da fraude<li>
   
- ![PROCEDURE_MESES_FRAUDES](img/PROCEDURE_MESES_FRAUDES.png)
+ ![CRIANDO-PROCEDURE](img/CRIANDO-PROCEDURE.PNG)
   
 <li>- [x]  Consultando a tabela criada pela procedure que mostra os meses com maior numero de fraudes de cada ano diferenciando por origem da fraudes<li>
   
