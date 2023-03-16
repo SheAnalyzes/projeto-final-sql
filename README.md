@@ -18,9 +18,6 @@
    
    ## Visão geral
    
-   **=================**
-
-## **Relatórios SQL**
 
 
  #### **Esse repositório apresentará o que foi desenvolvido no RELATÓRIO DE SQL**
