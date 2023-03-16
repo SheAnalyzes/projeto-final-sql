@@ -9,24 +9,28 @@ Para retornar ao repositório geral, clique [aqui](https://github.com/SheAnalyze
   - [Apresentação do problema](#apresentação-do-problema)
   - [Objetivos](#objetivos)
   - [Analisando o problema](#analisando-o-problema)
-  - [Features](#features)
-  - [Relatório SQL](#relatorio-sql)
   - [🛠 Tecnologias utilizadas](#-tecnologias-utilizadas)
+  - [Features](#features)
+  - [Relatório SQL](#relatório-sql)
   - [Grupo](#grupo)
   
+**=================**
+
 ## Apresentação do problema
 
 Desenvolver uma aplicação em Python para carga de arquivos em um banco de dados SQL e gerar relatórios estatísticos visando a descoberta de fraudes em conta correntede cartão de crédito.
 
 Você pode encontrar o link do desafio [aqui](https://docs.google.com/document/d/10fBZm7Sxm60FEIyNk4rqUE-pJLhXRxDi1grAATF7hVw/edit)!
 
-### **Objetivos**
+**=================**
+
+## Objetivos
 
 Seu objetivo inicial é analisar arquivos criando uma base de dados relacional para fazer a carga e depois analisá-la. A conta corrente fraudada, será aquela que tiver movimentações abaixo de 2 minutos de espaçamento entre as transações.
 
 **=================**
 
-### **Analisando o problema:**
+## Analisando o problema:
 
 A análise inicial do problema foi feita a partir da análise dos dados recebidos. A partir daí, foram pensadas em algumas etapas:
 
@@ -35,10 +39,21 @@ A análise inicial do problema foi feita a partir da análise dos dados recebido
 * O kanban do projeto com a divisão das atividades pode ser visualizado [aqui]([https://trello.com/b/4JhJb0Iz/project-data-azure-desafio-final](https://trello.com/b/4JhJb0Iz/project-data-azure-desafio-final)).
 
 
-
 **=================**
 
-## **Features**
+## 🛠 Tecnologias utilizadas
+
+As seguintes ferramentas foram usadas nessa ETAPA do projeto:
+
+<ul>    <li>Git</li>
+  <li>Linguagem SQL</li>
+    <li>Trello</li>
+    <li>Banco de Dados - Azure Data Studio</li>
+</ul>
+  
+**=================**
+
+## Features
 
 - [x]  Script de migração em Pandas (Para acessar o repositório do projeto em Pandas, acesse [aqui](https://github.com/SheAnalyzes/projeto-final-pandas/).
 - [x]  Script de migração em Spark (Para acessar o repositório do projeto em Spark, acesse [aqui](https://github.com/SheAnalyzes/projeto-final-spark).
@@ -49,7 +64,7 @@ A análise inicial do problema foi feita a partir da análise dos dados recebido
 
 **=================**
 
-## **Relatórios SQL**
+## Relatórios SQL
 
 <li>- [x]  Relação de todos os registros da tabela transacoes<li>
 
@@ -129,20 +144,8 @@ A análise inicial do problema foi feita a partir da análise dos dados recebido
 
   
   **=================**
-## **🛠 Tecnologias utilizadas**
-
-As seguintes ferramentas foram usadas nessa ETAPA do projeto:
-
-<ul>    <li>Git</li>
-  <li>Linguagem SQL</li>
-    <li>Trello</li>
-    <li>Banco de Dados - Azure Data Studio</li>
-</ul>
-  
-**=================**
-
    
-## **Grupo** - SheAnalyses
+## Grupo - SheAnalyses
 
 ![1678919788585](img/README/1678919788585.png)![1678922005355](img/README/1678922005355.png)
 
