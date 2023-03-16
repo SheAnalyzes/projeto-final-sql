@@ -10,6 +10,7 @@
   - [Analisando o problema](#analisando-o-problema)
   - [Tabela de conteúdos](#tabela-de-conteúdos)
   - [Features](#features)
+  - [Relatório SQL](#features)
   - [Relatórios do Power BI](#relatórios-do-power-bi)
   - [🛠 Tecnologias](#-tecnologias)
   - [Grupo](#grupo)
@@ -36,6 +37,7 @@ Link do desafio:          https://docs.google.com/document/d/10fBZm7Sxm60FEIyNk4
 ### **Objetivos**
 
 Seu objetivo inicial é analisar arquivos criando uma base de dados relacional para fazer a carga e depois analisá-la. O cartão fraudado, será aquele que tiver movimentações abaixo de 2 minutos de espaçamento entre as transações.
+
 **=================**
 
 ### **Analisando o problema:**
