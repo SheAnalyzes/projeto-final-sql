@@ -135,7 +135,7 @@ As seguintes ferramentas foram usadas nessa ETAPA do projeto:
   
 <li>- [x]  VIEW criação de view para porcentagem de fraudes<li>
   
- ![VIEW_PORCENTAGEM_DE_FRAUDES](img/VIEW_PORCENTAGEM_DE_FRAUDES.png)
+ ![CRIANDO-VIEW](img/CRIANDO-VIEW.PNG)
   
 <li>- [x]  Consultando a view da porcentagem de fraudes<li>
   
