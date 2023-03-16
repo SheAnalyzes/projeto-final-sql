@@ -3,6 +3,7 @@
 ## Tabela de conteúdos
 
 **=================**
+
   - [Visão geral](#visão-geral)
   - [Desafio?](#qual-o-desafio)
   - [Objetivos](#objetivos)
@@ -16,6 +17,8 @@
    **=================**
    
    ## Visão geral
+   
+   **=================**
 
 ## **Relatórios SQL**
 
@@ -24,6 +27,7 @@
 
 Você poderá encontrar informações detalhadas sobre o desafio [aqui](https://docs.google.com/document/d/10fBZm7Sxm60FEIyNk4rqUE-pJLhXRxDi1grAATF7hVw/edit)!
 
+**=================**
 
 ### **Desafio**
 
@@ -112,10 +116,9 @@ As seguintes ferramentas foram usadas nessa ETAPA do projeto:
 </ul>
   
 **=================**
-## **Grupo**
-  
-  
-## Grupo - SheAnalyses
+
+   
+## **Grupo** - SheAnalyses
 
 ![1678919788585](image/README/1678919788585.png)![1678922005355](image/README/1678922005355.png)
 
