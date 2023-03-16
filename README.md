@@ -41,11 +41,11 @@ Seu objetivo inicial é analisar arquivos criando uma base de dados relacional p
 **=================**
 
 ### **Analisando o problema:**
-<ul>
+
   <li>A análise inicial do problema foi feita a partir da análise dos dados recebidos. A partir daí, foram pensadas em algumas etapas:<li>
     <li>Brainstorm: https://whimsical.com/projeto-final-5zim4iYZrkWQ2Dbpy2knML</li>
     <li>Atribuição das atividades: https://trello.com/b/4JhJb0Iz/project-data-azure-desafio-final</li>
-</ul>
+
 
 **=================**
 
