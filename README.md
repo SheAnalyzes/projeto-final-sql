@@ -48,16 +48,16 @@ Seu objetivo inicial é analisar arquivos criando uma base de dados relacional p
 
 ## **Features**
 
-- [x]  Script de migração em Python
-- [x]  Script de migração em Spark
+- [x]  Script de migração em Pandas (Para acessar o repositório do projeto em Pandas, acesse [aqui](https://github.com/SheAnalyzes/projeto-final-pandas/).
+- [x]  Script de migração em Spark (Para acessar o repositório do projeto em Spark, acesse [aqui](https://github.com/SheAnalyzes/projeto-final-spark).
 - [x]  Modelo de Entidades e Relacionamentos
 - [x]  Relatórios de análise em SQL
-- [x]  Relatórios de análise em PowerBI 
+- [x]  Relatórios de análise em PowerBI (Para acessar o repositório do relatório em PowerBI acesse [aqui](https://github.com/SheAnalyzes/projeto-final-powerbi).
 - [x]  Códigos versionados no github.com
 
 **=================**
 
-
+## **Relatórios SQL**
 
 <li>- [x]  Demonstração dos clientes fraudados na entrada, informando o total do valor fraudado e a quantidade de fraudes por clientes<li>
   
