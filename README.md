@@ -60,6 +60,42 @@ Seu objetivo inicial é analisar arquivos criando uma base de dados relacional p
 
 ## **Relatórios SQL**
 
+<li>- [x]  Relação de todos os registros da tabela transacoes<li>
+
+  ![TODOS_REGISTROS](https://github.com/SheAnalyzes/projeto-final-sql/blob/main/img/MOSTRAR_TOOS_REGISTROS_TRANSACOES.png)
+
+<li>- [x]  Proporção de fraudes nas transações de entrada<li>
+
+  ![PROPORCAO_FRAUDES_ENTRADA](https://github.com/SheAnalyzes/projeto-final-sql/blob/main/img/PROPORCAO_TRANSACOES_IN.png)
+
+<li>- [x]  Proporção de fraudes nas transações de saída<li>
+
+  ![PROPORCAO_FRAUDES_SAIDA](https://github.com/SheAnalyzes/projeto-final-sql/blob/main/img/PROPORCAO_TRANSACOES_OUT.png)
+
+<li>- [x]  Proporção de fraudes nas transações totais<li>
+
+  ![PROPORCAO_FRAUDES_TOTAL](https://github.com/SheAnalyzes/projeto-final-sql/blob/main/img/PROPORCAO_TRANSACOES_TOTAL.png)
+
+<li>- [x]  Função para formatação de moeda<li>
+
+  ![FORMATAR_MOEDA](https://github.com/SheAnalyzes/projeto-final-sql/blob/main/img/FORMATAR_VALOR.png)
+
+<li>- [x]  Procedure para realizar a busca de um id de cliente na tabela de transações<li>
+
+  ![BUSCA_ID_CLIENTE](https://github.com/SheAnalyzes/projeto-final-sql/blob/main/img/VERIFICAR_CLIENTE_POR_ID.png)
+
+<li>- [x]  Verificação de clientes que realizaram transações, mas não tem cadastro<li>
+
+  ![CLIENTES_SEM_CADASTRO](https://github.com/SheAnalyzes/projeto-final-sql/blob/main/img/CLIENTE_SEM_CADASTRO.png)
+
+<li>- [x]  Verificação de clientes que realizaram transações com suspeita de fraude, mas não tem cadastro<li>
+
+  ![CLIENTES_COM_FRAUDE_SEM_CADASTRO](https://github.com/SheAnalyzes/projeto-final-sql/blob/main/img/CLIENTE_COM_FRAUDE_SEM_CADASTRO.png)
+
+<li>- [x]  Verificação de clientes que não realizaram transações<li>
+
+  ![CLIENTES_SEM_TRANSACOES](https://github.com/SheAnalyzes/projeto-final-sql/blob/main/img/CLIENTES_SEM_TRANSACOES.png)
+
 <li>- [x]  Demonstração dos clientes fraudados na entrada, informando o total do valor fraudado e a quantidade de fraudes por clientes<li>
   
   ![FRAUDES_ENTRADA](img/FRAUDES_ENTRADA.png)
