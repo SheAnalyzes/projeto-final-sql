@@ -34,7 +34,7 @@ Seu objetivo inicial é analisar arquivos criando uma base de dados relacional p
 
 A análise inicial do problema foi feita a partir da análise dos dados recebidos. A partir daí, foram pensadas em algumas etapas:
 
-* O Brainstorm inicial das etapas pode ser visualizado [aqui](https://whimsical.com/projeto-final-5zim4iYZrkWQ2Dbpy2knML](https://whimsical.com/projeto-final-5zim4iYZrkWQ2Dbpy2knML)
+* O Brainstorm inicial das etapas pode ser visualizado [aqui](https://whimsical.com/projeto-final-5zim4iYZrkWQ2Dbpy2knML)
 
 * O kanban do projeto com a divisão das atividades pode ser visualizado [aqui](https://trello.com/b/4JhJb0Iz/project-data-azure-desafio-final)
 
