@@ -48,6 +48,7 @@ A análise inicial do problema foi feita a partir da análise dos dados recebido
 * O kanban do projeto com a divisão das atividades pode ser visualizado [aqui]([https://trello.com/b/4JhJb0Iz/project-data-azure-desafio-final](https://trello.com/b/4JhJb0Iz/project-data-azure-desafio-final)).
 
 
+
 **=================**
 
 ## **Features**
