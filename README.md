@@ -139,7 +139,7 @@ As seguintes ferramentas foram usadas nessa ETAPA do projeto:
   
 <li>- [x]  Consultando a view da porcentagem de fraudes<li>
   
- ![CONSULTANDO_VIEW_PORCENTAGEM_FRAUDES](img/CONSULTANDO_VIEW_PORCENTAGEM_FRAUDES.png)
+ ![VIEW_PORCENTAGEM_DE_FRAUDES](img/VIEW_PORCENTAGEM_DE_FRAUDES.png)
 
   
   **=================**
