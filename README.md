@@ -57,7 +57,41 @@ Seu objetivo inicial é analisar arquivos criando uma base de dados relacional p
 
 **=================**
 
+<li>- [x]  Relação de todos os registros da tabela transacoes<li>
 
+  ![TODOS_REGISTROS](https://github.com/SheAnalyzes/projeto-final-sql/blob/main/img/MOSTRAR_TOOS_REGISTROS_TRANSACOES.png)
+
+<li>- [x]  Proporção de fraudes nas transações de entrada<li>
+
+  ![PROPORCAO_FRAUDES_ENTRADA](https://github.com/SheAnalyzes/projeto-final-sql/blob/main/img/PROPORCAO_TRANSACOES_IN.png)
+
+<li>- [x]  Proporção de fraudes nas transações de saída<li>
+
+  ![PROPORCAO_FRAUDES_SAIDA](https://github.com/SheAnalyzes/projeto-final-sql/blob/main/img/PROPORCAO_TRANSACOES_OUT.png)
+
+<li>- [x]  Proporção de fraudes nas transações totais<li>
+
+  ![PROPORCAO_FRAUDES_TOTAL](https://github.com/SheAnalyzes/projeto-final-sql/blob/main/img/PROPORCAO_TRANSACOES_TOTAL.png)
+
+<li>- [x]  Função para formatação de moeda<li>
+
+  ![FORMATAR_MOEDA](https://github.com/SheAnalyzes/projeto-final-sql/blob/main/img/FORMATAR_VALOR.png)
+
+<li>- [x]  Procedure para realizar a busca de um id de cliente na tabela de transações<li>
+
+  ![BUSCA_ID_CLIENTE](https://github.com/SheAnalyzes/projeto-final-sql/blob/main/img/VERIFICAR_CLIENTE_POR_ID.png)
+
+<li>- [x]  Verificação de clientes que realizaram transações, mas não tem cadastro<li>
+
+  ![CLIENTES_SEM_CADASTRO](https://github.com/SheAnalyzes/projeto-final-sql/blob/main/img/CLIENTE_SEM_CADASTRO.png)
+
+<li>- [x]  Verificação de clientes que realizaram transações com suspeita de fraude, mas não tem cadastro<li>
+
+  ![CLIENTES_COM_FRAUDE_SEM_CADASTRO](https://github.com/SheAnalyzes/projeto-final-sql/blob/main/img/CLIENTE_COM_FRAUDE_SEM_CADASTRO.png)
+
+<li>- [x]  Verificação de clientes que não realizaram transações<li>
+
+  ![CLIENTES_SEM_TRANSACOES](https://github.com/SheAnalyzes/projeto-final-sql/blob/main/img/CLIENTES_SEM_TRANSACOES.png)
 
 <li>- [x]  Demonstração dos clientes fraudados na entrada, informando o total do valor fraudado e a quantidade de fraudes por clientes<li>
   
@@ -117,15 +151,15 @@ As seguintes ferramentas foram usadas nessa ETAPA do projeto:
   
 ## Grupo - SheAnalyses
 
-![1678919788585](image/README/1678919788585.png)![1678922005355](image/README/1678922005355.png)
+![1678919788585](image/README/1678919788585.png)![1678922005355](img/README/1678922005355.png)
 
-| Ana Paula Santos de Queiroz<br /><br />Linkedin: [/ana-paula-santos-de-queiroz-086807166](https://www.linkedin.com/in/ana-paula-santos-de-queiroz-086807166/)<br />Github: [/Queirozaps](https://github.com/Queirozaps) | ![1678913762981](image/README/1678913762981.png) |
+| Ana Paula Santos de Queiroz<br /><br />Linkedin: [/ana-paula-santos-de-queiroz-086807166](https://www.linkedin.com/in/ana-paula-santos-de-queiroz-086807166/)<br />Github: [/Queirozaps](https://github.com/Queirozaps) | ![1678913762981](img/README/1678913762981.png) |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------: |
-|  **Arianna Silveira Santos**<br />  <br />Linkedin: [/arianna-silveira-aa474514b](https://www.linkedin.com/in/arianna-silveira-aa474514b/)<br />Github: [/AriannaSilveira](https://github.com/AriannaSilveira)  | ![1678880182631](image/README/1678880182631.png) |
-|                            **Carolina Gois**<br /><br />Linkedin: [/carolina-gois](https://www.linkedin.com/in/carolina-gois/)<br />Github: [/carolgois](https://github.com/carolgois)                            | ![1678915457372](image/README/1678915457372.png) |
-|                   **Emilly Correa Santiago**<br /><br />Linkedin: [/emillysantiago23](https://www.linkedin.com/in/emillysantiago23/)<br />Github: [/emillysant](https://github.com/emillysant)                   | ![1678881122291](image/README/1678881122291.png) |
-|                              **Mariana Freire**<br /><br />Linkedin: [/maricf](https://www.linkedin.com/in/maricf/)<br />Github: [/marianafreire](https://github.com/marianafreire)                              | ![1678915794465](image/README/1678915794465.png) |
-|             **Priscila Assumpção Fernandes**<br /><br />Linkedin: [/priscila-af](https://www.linkedin.com/in/priscila-af/)<br />Github: [/priscilaassumpcao](https://github.com/priscilaassumpcao)             | ![1678916901964](image/README/1678916901964.png) |
-|                    **Vivian Medina**<br /><br />Linkedin: [/vivian-medina-b7250961](https://www.linkedin.com/in/vivian-medina-b7250961/)<br />Github: [/medinavi](https://github.com/medinavi)                    | ![1678885040168](image/README/1678885040168.png) |
+|  **Arianna Silveira Santos**<br />  <br />Linkedin: [/arianna-silveira-aa474514b](https://www.linkedin.com/in/arianna-silveira-aa474514b/)<br />Github: [/AriannaSilveira](https://github.com/AriannaSilveira)  | ![1678880182631](img/README/1678880182631.png) |
+|                            **Carolina Gois**<br /><br />Linkedin: [/carolina-gois](https://www.linkedin.com/in/carolina-gois/)<br />Github: [/carolgois](https://github.com/carolgois)                            | ![1678915457372](img/README/1678915457372.png) |
+|                   **Emilly Correa Santiago**<br /><br />Linkedin: [/emillysantiago23](https://www.linkedin.com/in/emillysantiago23/)<br />Github: [/emillysant](https://github.com/emillysant)                   | ![1678881122291](img/README/1678881122291.png) |
+|                              **Mariana Freire**<br /><br />Linkedin: [/maricf](https://www.linkedin.com/in/maricf/)<br />Github: [/marianafreire](https://github.com/marianafreire)                              | ![1678915794465](img/README/1678915794465.png) |
+|             **Priscila Assumpção Fernandes**<br /><br />Linkedin: [/priscila-af](https://www.linkedin.com/in/priscila-af/)<br />Github: [/priscilaassumpcao](https://github.com/priscilaassumpcao)             | ![1678916901964](img/README/1678916901964.png) |
+|                    **Vivian Medina**<br /><br />Linkedin: [/vivian-medina-b7250961](https://www.linkedin.com/in/vivian-medina-b7250961/)<br />Github: [/medinavi](https://github.com/medinavi)                    | ![1678885040168](img/README/1678885040168.png) |
  
 
