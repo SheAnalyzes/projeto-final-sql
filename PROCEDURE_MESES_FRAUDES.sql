@@ -6,7 +6,7 @@ BEGIN
   SET NOCOUNT ON;
   
   IF OBJECT_ID('mes_fraudes', 'V') IS NOT NULL
-    DROP VIEW mes_fraudes;
+    DROP TABLE mes_fraudes;
     
   WITH MF AS (
     SELECT 
