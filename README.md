@@ -30,7 +30,7 @@ Seu objetivo inicial é analisar arquivos criando uma base de dados relacional p
 
 **=================**
 
-## Analisando o problema:
+## Analisando o problema
 
 A análise inicial do problema foi feita a partir da análise dos dados recebidos. A partir daí, foram pensadas em algumas etapas:
 
@@ -64,7 +64,7 @@ As seguintes ferramentas foram usadas nessa ETAPA do projeto:
 
 **=================**
 
-## Relatórios SQL
+## Relatório SQL
 
 <li>- [x]  Relação de todos os registros da tabela transacoes<li>
 
@@ -145,7 +145,7 @@ As seguintes ferramentas foram usadas nessa ETAPA do projeto:
   
   **=================**
    
-## Grupo - SheAnalyses
+## Grupo
 
 ![1678919788585](img/README/1678919788585.png)![1678922005355](img/README/1678922005355.png)
 
